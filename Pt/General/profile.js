@@ -1,0 +1,21 @@
+module.exports = {
+  "DEVELOPER": "<: desenvolvedor_groot: 955375779154370601> ** Desenvolvedor **",
+  "OWNER": "<: proprietário_groot: 922458890568880128> ** Proprietário **",
+  "MANAGER": "<: done_alix: 922808892268900383> ** gerente **",
+  "ADMIN": "<: cmd_admin: 922457873471144016> ** Admin **",
+  "MODERATOR": "<: cmd_mod: 922457872972001333> ** Moderador **",
+  "STAFF": "<: funcionário_groot: 923877723758264321> ** funcionários **",
+  "EARLY_SUPPORTER": "<: Support_groot: 923879343388782632> ** Apoiador do Early **",
+  "SUPPORTER": "<: B_goldmodbadge: 894797161072570368> ** Apoiador **",
+  "PREMIUM_USER": "<: boost_groot: 923235451106627594> ** Usuário premium **",
+  "PARTNER": "<: parceiro_groot: 923877891903725618> ** Parceiro **",
+  "SPONSOR": "<: game_groot: 923910937113673788> ** Patrocinador **",
+  "BUG_HUNTER": "<: bug1_groot: 923876873128247346> ** Bug Hunter **",
+  "SPECIAL_ONE": "<a: g_yay: 902128258156470292> ** Especial **",
+  "VIP": "<a: dc_hypesquadevents: 902127730223632404> ** VIP **",
+  "NO_BADGE": "Opa!Parece que você não tem nenhum tipo de crachá a ser exibido!Você pode obter um comprando nosso [Premium]({{premiumUrl}}) e obter crachá no perfil de Groot",
+  "PREMIUM": "**Premium**",
+  "NO_PREMIUM": "Você não tem nenhum tipo de prêmio!Se você quiser comprar premium, por favor [clique aqui]({{premiumUrl}}) e aproveite a música Groot com mais eficiência!",
+  "EXPIRE": "Expirar",
+  "PREMIUM_COUNT": "Contagem premium"
+}
