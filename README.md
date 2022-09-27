@@ -9,13 +9,4 @@ If you want to contribute to the translation of Groot, you can do so by followin
 - Create a pull request
 
 ## Language Mapping
-`Bangla` -> `Bn`<br/>
-`German` -> `De`<br/>
 `English` -> `En`<br/>
-`Spanish` -> `Es`<br/>
-`French` -> `Fr`<br/>
-`Hindi` -> `Hi`<br/>
-`Italian` -> `It`<br/>
-`Punjabi` -> `Ma`<br/>
-`Portuguese` -> `Pt`<br/>
-`Russian` -> `Ru`<br/>
