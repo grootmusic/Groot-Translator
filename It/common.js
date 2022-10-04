@@ -22,7 +22,7 @@ module.exports = {
   "iDontHavePerm": "Non ho il permesso di `$ {Permarry}` Permessi mancanti!",
   "afk": "00Andefined00, l'utente è ora AFK per motivo - ** {{afkReason}} **",
   "afkRemove": "AFK è stato rimosso!",
-  "quality": "Il bot di musica migliore di qualità! <: Mussettings: 894622659025985536>",
+  "quality": "Il bot di musica migliore di qualità!",
   "guildOwner": "Questo comando può essere utilizzato solo dal proprietario di questo server!",
   "upperRole": "Devi avere un ruolo superiore quindi per usare questo comando!",
   "checkPerm": "Non ho abbastanza permesso per eseguire questo comando!\n> Fare clic sul pulsante in basso per risolvere il problema",

@@ -4,6 +4,7 @@ module.exports = {
         "bassboost": require('./Filters/bassboost.js'),
         "chipmunk": require('./Filters/chipmunk.js'),
         "daycore": require('./Filters/daycore.js'),
+        "lofi": require('./Filters/lofi.js'),
         "nightcore": require('./Filters/nightcore.js'),
         "slowmo": require('./Filters/slowmo.js'),
         "terriblebass": require('./Filters/terriblebass.js'),
