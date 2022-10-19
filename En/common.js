@@ -16,7 +16,7 @@ module.exports = {
     "blacklist": "BlackListed! You Can't Use Groot Here",
     "premiumGuild": "You Need To Upgrade This Server To Use **[Premium]({{premiumUrl}})** Commands Here!\n**[Click here]({{premiumUrl}})** Or Press **Premium** Button!",
     "premiumUser": "You Need To Upgrade Into **[Premium]({{premiumUrl}})** Commands Here!\n**[Click here]({{premiumUrl}})** Or Press **Premium** Button!",
-    "voter": "You Must **[Vote](https://top.gg/bot/853583833747161091/vote)** Me To Use Votable Commands.\nIf You Want To Disable This **[Click Here]({{premiumUrl}})** To Purchase **[Premium]({{premiumUrl}})** And Enjoy Non-Stop Music.",
+    "voter": "You Must **[Vote](https://grootbot.pro/vote)** Me To Use Votable Commands.\nIf You Want To Disable This **[Click Here]({{premiumUrl}})** To Purchase **[Premium]({{premiumUrl}})** And Enjoy Non-Stop Music.",
     "mustperm": "You Must Have The `{{permArry}}` Permission To Use This Command!",
     "iDontHavePerm": "I Don't Have Permission To `{{permArry}}` Missing Permissions!",
     "afk": "{{user}}, User Is Now AFK For Reason - **{{afkReason}}**",

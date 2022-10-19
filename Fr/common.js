@@ -20,7 +20,7 @@ module.exports = {
     '** [Cliquez ici]({{PremiumUrl}}) ** ou appuyez sur ** Bouton Premium **!',
   premiumUser: 'Vous devez passer en ** [Premium]({{premiumUrl}}) ** Commandes ici!\n' +
     '** [Cliquez ici]({{PremiumUrl}}) ** ou appuyez sur ** Bouton Premium **!',
-  voter: 'Vous devez ** [vote](https://top.gg/bot/853583833747161091/vote) ** moi pour utiliser des commandes votables.\n' +
+  voter: 'Vous devez ** [vote](https://grootbot.pro/vote) ** moi pour utiliser des commandes votables.\n' +
     'Si vous souhaitez désactiver ce ** [cliquez ici]({{premiumUrl}}) ** pour acheter ** [Premium]({{premiumUrl}}) ** et profiter de la musique non-stop.',
   mustperm: "Vous devez avoir le `{{permArry}}` Permission d'utiliser cette commande!",
   iDontHavePerm: "Je n'ai pas l'autorisation de `{{permArry}}` Autorisations manquantes!",
