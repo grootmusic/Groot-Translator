@@ -14,7 +14,9 @@ module.exports = {
     "noDups": "Não há músicas duplicadas na sua lista de reprodução!",
     "shouldbeNum": "Deve ser um número!",
     "noInput": "Nenhuma entrada recuperada!",
-    "args": "Você precisa selecionar um formulário de opções abaixo"
+    "args": "Você precisa selecionar um formulário de opções abaixo",
+    "playlistNameExceeded": "Desculpe, você excedeu o limite de nome da lista de reprodução!",
+    "playlistNameInvalid": "Desculpe, você digitou um nome de lista de reprodução inválido! Não deve ser um URL!",
   },
   "addCurrentSelect": "Selecione a lista de reprodução que deseja adicionar a faixa atual",
   "addCurrentSuccessfull": "Adicionado com sucesso à lista de reprodução com nome ** {{song}} **",

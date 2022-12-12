@@ -14,7 +14,9 @@ module.exports = {
     "noDups": "Es gibt keine doppelten Songs in Ihrer Wiedergabeliste!",
     "shouldbeNum": "Es sollte eine Nummer sein!",
     "noInput": "KEINE INPUT ERGEBNIGT!",
-    "args": "Sie müssen unten ein Optionsformular auswählen"
+    "args": "Sie müssen unten ein Optionsformular auswählen",
+    "playlistNameExceeded": "Tut mir leid, du hast das Namenslimit der Playlist überschritten!",
+    "playlistNameInvalid": "Entschuldigung, Sie haben einen ungültigen Playlist-Namen eingegeben! Es darf keine URL sein!",
   },
   "addCurrentSelect": "Wählen Sie die Wiedergabeliste aus, die Sie den aktuellen Track hinzufügen möchten",
   "addCurrentSuccessfull": "Erfolgreich zur Wiedergabeliste mit Namen ** {{song}} ** hinzugefügt",

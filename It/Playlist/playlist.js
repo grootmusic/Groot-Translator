@@ -14,7 +14,9 @@ module.exports = {
     "noDups": "Non ci sono canzoni duplicate nella tua playlist!",
     "shouldbeNum": "Dovrebbe essere un numero!",
     "noInput": "Nessun input recitato!",
-    "args": "È necessario selezionare un modulo di opzioni di seguito"
+    "args": "È necessario selezionare un modulo di opzioni di seguito",
+    "playlistNameExceeded": "Siamo spiacenti, hai superato il limite del nome della playlist!",
+    "playlistNameInvalid": "Siamo spiacenti, hai inserito un nome di playlist non valido! Non deve essere un URL!",
   },
   "addCurrentSelect": "Seleziona la playlist che si desidera aggiungere la traccia corrente",
   "addCurrentSuccessfull": "Aggiunto correttamente alla playlist con il nome ** {{song}} **",

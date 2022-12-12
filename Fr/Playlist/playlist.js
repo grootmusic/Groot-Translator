@@ -14,7 +14,9 @@ module.exports = {
     "noDups": "Il n'y a pas de chansons en double dans votre playlist!",
     "shouldbeNum": "Ça devrait être un numéro!",
     "noInput": "Aucune entrée recevée!",
-    "args": "Vous devez sélectionner un formulaire d'options ci-dessous"
+    "args": "Vous devez sélectionner un formulaire d'options ci-dessous",
+    "playlistNameExceeded": "Désolé, vous avez dépassé la limite de noms de playlist !",
+    "playlistNameInvalid": "Désolé, vous avez saisi un nom de liste de lecture non valide ! Ce ne doit pas être une URL !",
   },
   "addCurrentSelect": "Sélectionnez la liste de lecture que vous souhaitez ajouter la piste actuelle",
   "addCurrentSuccessfull": "Ajouté avec succès à la playlist avec nom ** {{song}} **",

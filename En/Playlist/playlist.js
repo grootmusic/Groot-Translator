@@ -14,7 +14,9 @@ module.exports = {
         "noDups": "There Is No Duplicate Song's In Your PLaylist!",
         "shouldbeNum": "It Should Be An Number!",
         "noInput": "No Input Recived!",
-        "args": "You Need To Select An Options Form Below"
+        "args": "You Need To Select An Options Form Below",
+        "playlistNameExceeded": "Sorry, You Have Exceeded The Playlist Name Limit!",
+        "playlistNameInvalid": "Sorry, You Have Entered An Invalid Playlist Name! It Must Not Be A URL!",
     },
     "addCurrentSelect": "Select The Playlist You Want To Add The Current Track",
     "addCurrentSuccessfull": "Successfully Added To The Playlist With Name **{{song}}**",
