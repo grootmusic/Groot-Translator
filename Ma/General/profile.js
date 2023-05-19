@@ -13,9 +13,9 @@ module.exports = {
   "BUG_HUNTER": "<:bug1_groot:923876873128247346> **BUG HUNTER**",
   "SPECIAL_ONE": "<a:G_Yay:902128258156470292> **SPECIAL ONE**",
   "VIP": "<a:dc_hypesquadevents:902127730223632404> **VIP**",
-  "NO_BADGE": "Oops! Looks Like You Don't Have Any Type Of Badge To Be Displayed! You Can Get One By Buying Our [Premium]({{premiumUrl}}) And Get Badge In Groot Profile",
+  "NO_BADGE": "Oops! Looks Like You Don't Have Any Type Of Badge To Be Displayed! You Can Get One By Buying Our [{{premiumUrl}}] And Get Badge In Groot Profile",
   "PREMIUM": "**Premium**",
-  "NO_PREMIUM": "You Don't Have Any Kind Of Premium! If You Want To Buy Premium Please [Click Here]({{premiumUrl}}) And Enjoy Groot Music More Efficiently!",
+  "NO_PREMIUM": "You Don't Have Any Kind Of Premium! If You Want To Buy Premium Please ___URL___ And Enjoy Groot Music More Efficiently!",
   "EXPIRE": "Expire",
   "PREMIUM_COUNT": "Premium Count"
 }

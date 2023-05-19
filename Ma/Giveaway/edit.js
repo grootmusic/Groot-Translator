@@ -9,5 +9,5 @@ module.exports = {
   "MUST_BE_NUMBER_WINNER": "Boi! Winners Must Be a Number or Greater Than Equal to One!\n**Try Again?**\n Example ``1``,``10``, Etcetra.",
   "NEW_PRIZE": "Alright, Generous Human! Next, What Should Be the New Prize for the Giveaway?\n**Must Reply Within 30 Seconds!**",
   "CANT_FIND": "I Can't Find That Giveaway With The ID {{id}}",
-  "SUCCESSFULLY_EDITED": "Successfully Edited The Giveaway [Here]({{messageUrl}})"
+  "SUCCESSFULLY_EDITED": "Successfully Edited The Giveaway [{{messageUrl}}]"
 }

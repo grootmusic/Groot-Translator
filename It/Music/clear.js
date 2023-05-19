@@ -1,3 +1,3 @@
 module.exports = {
-  "CLEARED": "Coda cancellata!"
+  "CLEARED": "Coda eliminata!"
 }

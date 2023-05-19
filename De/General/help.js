@@ -8,7 +8,7 @@ module.exports = {
   "CAT_GIVEAWAY": "**Giveaway**",
   "CHOOSE": "Wählen Sie eine Seite aus dem Menü unten aus",
   "ALIASES": "Aliase",
-  "USAGE": "Verwendungszweck",
+  "USAGE": "Verwendung",
   "EXAMPLE": "Beispiel",
   "LOVE": "Groot ist Liebe"
 }

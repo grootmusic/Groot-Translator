@@ -7,7 +7,7 @@ module.exports = {
   "NO_GIVEAWAYS": "💥 Nenhuma oferta a ser exibida",
   "CHOOSE": "Escolha uma opção no menu Selecionar para começar!",
   "ACTIVE_GIVEAWAYS": "Atualmente, brindes ativos",
-  "ACTIVE_REQUIREMENT_GIVEAWAYS": "Atualmente ativo Junção Requisitos de Requisitos",
+  "ACTIVE_REQUIREMENT_GIVEAWAYS": "Atualmente ativo de requisitos de requisitos de junção",
   "STARTED": "Iniciado",
   "ENDS": "Termina",
   "REQUIREMENT": "Requerimento",

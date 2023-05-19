@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "TerribleBass è stato ** abilitato **!",
+  "ENABLED": "TerribleBass è stato abilitato ** **!",
   "DISABLED": "TerribleBass è stato ** disabile **!"
 }

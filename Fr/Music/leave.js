@@ -1,3 +1,3 @@
 module.exports = {
-  "LEAVED": "DéConnecté avec succès"
+  "LEAVED": "Déconnecté avec succès"
 }

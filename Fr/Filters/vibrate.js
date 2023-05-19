@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "Vibrate a été ** activé **!",
-  "DISABLED": "Vibrate a été ** désactivé **!"
+  "ENABLED": "VIBRATE a été ** activé **!",
+  "DISABLED": "VIBRATE a été ** désactivé **!"
 }

@@ -19,6 +19,6 @@ If you want to contribute to the translation of Groot, you can do so by followin
 `Punjabi` -> `Ma`<br/>
 `Portuguese` -> `Pt`<br/>
 `Russian` -> `Ru`<br/>
-`Marathi` -> `Mar`<br/>
+`Marathi` -> `Mr`<br/>
 `Vietnamese` -> `Vi`<br/>
 `Add your here` -> `#your username` <br/>

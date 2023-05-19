@@ -6,8 +6,10 @@ module.exports = {
   "ACTIVATED": "Premium wurde erfolgreich aktiviert!",
   "DEACTIVATED": "Premium wurde erfolgreich deaktiviert!",
   "CANNOT_DEACTIVATE": "Sie können die Prämie dieses Servers nicht deaktivieren, da Sie nicht der Premium -Käufer von ** {{guild}} ** sind",
-  "GUILD_NO_PREMIUM": "Dieser Server hat keine Art von Premium aktiviert!Wenn Sie ein Abonnent sind, können Sie Premium auf diesem Server aktivieren, indem Sie `/Premium activate` oder kaufen [Premium]({{premiumUrl}}) und Groot Premium genießen!",
+  "GUILD_NO_PREMIUM": "Dieser Server hat keine Art von Premium aktiviert!Wenn Sie ein Abonnent sind, können Sie Premium auf diesem Server aktivieren, indem Sie `/Premium activate` oder kaufen [Premium] ({{premiumUrl}}) und Groot Premium genießen!",
   "ACTIVATOR": "** Premium -Aktivator: **",
   "EXPIRE": "**Expire:**",
-  "ARGS": "Bitte geben Sie ein Argument an \`ACTIVATE\`, \`DEACTIVATE\`, \`VALIDITY\`"
+  "ARGS": "Bitte geben Sie eine Argumentation \"Aktivieren\", \"deaktiviert\", \"Validität\" an",
+  "SERVER_NO_PREMIUM": "Die von Ihnen bereitgestellte Server -ID hat keine Premium aktiviert!",
+  "COOLDOWN": "Hoppla!Sie befinden sich in einer Abklingzeit, {{date}} endet"
 }

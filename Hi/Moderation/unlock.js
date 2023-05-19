@@ -1,3 +1,3 @@
 module.exports = {
-  "UNLOCKED": "`{{channel}}` सफलतापूर्वक अनलॉक किया गया है!"
+  "UNLOCKED": "`{{channel}}` को सफलतापूर्वक अनलॉक किया गया है!"
 }

@@ -1,3 +1,3 @@
 module.exports = {
-  "UNHIDDEN": "`{{channel}}` è stato senza maltrattamento!"
+  "UNHIDDEN": "`{{channel}}` è stato senza maltrattamento con successo!"
 }

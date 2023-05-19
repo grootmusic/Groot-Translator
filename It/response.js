@@ -1,8 +1,8 @@
 module.exports = {
   "noResult": "Nessun risultato trovato.",
   "play": "{{prefix}}play `<url o nome della canzone>`",
-  "voiceConnected": "Devi essere collegato a un canale vocale prima di poter usare questo comando!",
-  "unableToJoin": "Non sono in grado di unirmi al tuo canale vocale dammi il permesso adeguato!",
+  "voiceConnected": "Devi essere connesso a un canale vocale prima di poter usare questo comando!",
+  "unableToJoin": "Non sono in grado di unirmi al tuo canale vocale dammi il giusto permesso!",
   "mustPlaySong": "Devi suonare una canzone per usare questo comando!",
   "elseLitening": "Qualcun altro sta già ascoltando musica in un canale diverso!",
   "cantSkip": "Non posso giocare a playlist",

@@ -1,4 +1,4 @@
 module.exports = {
   "ENABLED": "Daycore a été ** activé **!",
-  "DISABLED": "Daycore a été ** désactivé **!"
+  "DISABLED": "Daycore a été ** Désactivé **!"
 }

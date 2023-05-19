@@ -1,3 +1,3 @@
 module.exports = {
-  "UNHIDDEN": "`{{channel}}` সফলভাবে আনহিড করা হয়েছে!"
+  "UNHIDDEN": "`{{channel}}` সফলভাবে আনহিডেড হয়েছে!"
 }

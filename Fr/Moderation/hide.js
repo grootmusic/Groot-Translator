@@ -1,3 +1,3 @@
 module.exports = {
-  "HIDDEN": "`{{channel}}` a été caché avec succès!"
+  "HIDDEN": "«{{channel}}` a été caché avec succès!"
 }

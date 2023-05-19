@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "L'annonce a été ** activée **",
+  "ENABLED": "Annonce a été ** activé **",
   "DISABLED": "L'annonce a été ** désactivée **"
 }

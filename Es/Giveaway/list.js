@@ -7,8 +7,8 @@ module.exports = {
   "NO_GIVEAWAYS": "💥 No se exhibirán sorteos",
   "CHOOSE": "¡Elija una opción en el menú Seleccionar para comenzar!",
   "ACTIVE_GIVEAWAYS": "Regalos activos activos",
-  "ACTIVE_REQUIREMENT_GIVEAWAYS": "Actualmente regalos de unión activa",
-  "STARTED": "Empezado",
+  "ACTIVE_REQUIREMENT_GIVEAWAYS": "Actualmente regalos de requisitos de unión activa",
+  "STARTED": "Comenzó",
   "ENDS": "Fines",
   "REQUIREMENT": "Requisito",
   "DESTROYED": "👀 ¡El coleccionista destruido, inténtelo de nuevo!"

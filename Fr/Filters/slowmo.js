@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "Slowmo a été ** activé **!",
-  "DISABLED": "Slowmo a été ** désactivé **!"
+  "ENABLED": "Slowmo a été activé ** **!",
+  "DISABLED": "Slowmo a été ** Désactivé **!"
 }

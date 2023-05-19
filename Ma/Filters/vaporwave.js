@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "VaporWave Has Been **Enabled**!",
-  "DISABLED": "VaporWave Has Been **Disabled**!"
+  "ENABLED": "VapourWave Has Been **Enabled**!",
+  "DISABLED": "VapourWave Has Been **Disabled**!"
 }

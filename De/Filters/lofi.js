@@ -1,4 +1,4 @@
 module.exports = {
-    ENABLED: "Lofi wurde **aktiviert**",
-    DISABLED: "Lofi wurde **deaktiviert**"
+  "ENABLED": "Lofi wurde ** aktiviert **",
+  "DISABLED": "Lofi wurde ** deaktiviert **"
 }

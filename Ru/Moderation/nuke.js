@@ -1,3 +1,3 @@
 module.exports = {
-    CLONED: '{{emoji}} Успешно уничтожен **{{newChannel}}**'
+  "CLONED": "{{emoji}} Успешно обдуман ** {{newChannel}} **"
 }

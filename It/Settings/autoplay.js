@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "L'autoplay è stato abilitato ** **",
+  "ENABLED": "Autoplay è stato abilitato ** **",
   "DISABLED": "Autoplay è stato ** disabilitato **"
 }

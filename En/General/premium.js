@@ -9,5 +9,7 @@ module.exports = {
     GUILD_NO_PREMIUM: "This Server Has No Type Of Premium Activated! If Your A Subscriber You Can Activate Premium To This Server By Using \`/premium activate\` Or Buy [Premium]({{premiumUrl}}) And Enjoy Groot Premium!",
     ACTIVATOR: "**Premium Activator:**",
     EXPIRE: "**Expire:**",
-    "ARGS": "Please Provide An Args \`ACTIVATE\`, \`DEACTIVATE\`, \`VALIDITY\`"
+    ARGS: "Please Provide An Args \`ACTIVATE\`, \`DEACTIVATE\`, \`VALIDITY\`",
+    SERVER_NO_PREMIUM: "The Server ID You Have Provided Has No Premium Activated!",
+    COOLDOWN: "Oops! You Are In A Cooldown, Ends {{date}}"
 }

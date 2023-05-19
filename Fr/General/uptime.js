@@ -1,3 +1,3 @@
 module.exports = {
-  "DESCRIPTION": "** Le cluster dans ce serveur est, ont été redémarrés pour la dernière fois **"
+  "DESCRIPTION": "** Le cluster dans ce serveur est, a été redémarré pour la dernière fois **"
 }

@@ -39,7 +39,7 @@ module.exports = {
     "skipped": "Skipped To The Next Track.",
     "addedToQueue": "Added To Queue",
     "tracks": "Tracks From",
-    "prepairing": "Prepairing To Play",
+    "prepairing": "preparing To Play",
     "selectTrack": "Select Tracks You Want To Add To The Queue.",
     "makeASelection": "Make A Selection",
     "cancelSelection": "Cancelled The Selection",
@@ -47,5 +47,6 @@ module.exports = {
     "trackQueue": "Track Queued - Position #{{position}}",
     "noSongInQueue": "No Songs Are Currently In Queue",
     "cooldown": "This Command Is On Cooldown For `{{rateLimits}}`",
-    "filterClear": "Successfully Cleared The Filters"
+    "filterClear": "Successfully Cleared The Filters",
+    "poweredBy": "Powered By {{service}}",
 }

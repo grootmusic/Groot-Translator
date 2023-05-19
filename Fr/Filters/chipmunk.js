@@ -1,4 +1,4 @@
 module.exports = {
-  "ENABLED": "ChipMunk a été activé **!",
+  "ENABLED": "Chipmunk a été activé ** **!",
   "DISABLED": "Chipmunk a été ** désactivé **!"
 }

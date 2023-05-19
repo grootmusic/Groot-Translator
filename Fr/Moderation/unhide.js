@@ -1,3 +1,3 @@
 module.exports = {
-  "UNHIDDEN": "`{{channel}}` a été insuffisant avec succès!"
+  "UNHIDDEN": "«{{channel}}» a été un peu insuffisant!"
 }

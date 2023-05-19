@@ -1,4 +1,4 @@
 module.exports = {
   "PAUSED": "▶ ️ ** Paused the Player **.",
-  "ALREADY": "⏸️ ** El jugador ya se detiene **"
+  "ALREADY": "⏸️ ** El jugador ya está pausado **"
 }

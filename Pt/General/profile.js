@@ -1,6 +1,6 @@
 module.exports = {
   "DEVELOPER": "<: desenvolvedor_groot: 955375779154370601> ** Desenvolvedor **",
-  "OWNER": "<: proprietário_groot: 922458890568880128> ** Proprietário **",
+  "OWNER": "<: proprietário_groot: 922458890568880128> ** proprietário **",
   "MANAGER": "<: done_alix: 922808892268900383> ** gerente **",
   "ADMIN": "<: cmd_admin: 922457873471144016> ** Admin **",
   "MODERATOR": "<: cmd_mod: 922457872972001333> ** Moderador **",
@@ -13,9 +13,9 @@ module.exports = {
   "BUG_HUNTER": "<: bug1_groot: 923876873128247346> ** Bug Hunter **",
   "SPECIAL_ONE": "<a: g_yay: 902128258156470292> ** Especial **",
   "VIP": "<a: dc_hypesquadevents: 902127730223632404> ** VIP **",
-  "NO_BADGE": "Opa!Parece que você não tem nenhum tipo de crachá a ser exibido!Você pode obter um comprando nosso [Premium]({{premiumUrl}}) e obter crachá no perfil de Groot",
+  "NO_BADGE": "Opa!Parece que você não tem nenhum tipo de crachá a ser exibido!Você pode obter um comprando nosso [Premium] ({{premiumUrl}}) e obter crachá no perfil de Groot",
   "PREMIUM": "**Premium**",
-  "NO_PREMIUM": "Você não tem nenhum tipo de prêmio!Se você quiser comprar premium, por favor [clique aqui]({{premiumUrl}}) e aproveite a música Groot com mais eficiência!",
+  "NO_PREMIUM": "Você não tem nenhum tipo de prêmio!Se você quiser comprar premium, por favor [clique aqui] ({{premiumUrl}}) e aproveite a música Groot com mais eficiência!",
   "EXPIRE": "Expirar",
   "PREMIUM_COUNT": "Contagem premium"
 }

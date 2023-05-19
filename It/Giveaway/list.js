@@ -8,7 +8,7 @@ module.exports = {
   "CHOOSE": "Scegli un'opzione nel menu Seleziona per iniziare!",
   "ACTIVE_GIVEAWAYS": "Attualmente omaggi attivi",
   "ACTIVE_REQUIREMENT_GIVEAWAYS": "Attualmente requisiti di join requisiti omaggi",
-  "STARTED": "Cominciato",
+  "STARTED": "Iniziato",
   "ENDS": "Finisce",
   "REQUIREMENT": "Requisiti",
   "DESTROYED": "👀 Collezionista distrutto, riprova!"

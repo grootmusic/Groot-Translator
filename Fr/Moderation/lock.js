@@ -1,3 +1,3 @@
 module.exports = {
-  "LOCKED": "`{{channel}}` a été verrouillé avec succès!"
+  "LOCKED": "«{{channel}}` a été verrouillé avec succès!"
 }
